@@ -1,0 +1,16 @@
+#bg{
+    background-image: url(./images/tut1.jpeg);
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-repeat: repeat; */
+    background-repeat: no-repeat;
+    /* background-position: 5% 7%; */
+    /* background-size: 100% 100%; */
+    /* background-attachment: fixed; */
+    /* background-size: cover; */
+    background-size: contain;
+    
+}
+/* body{
+    background-color: red;
+} */

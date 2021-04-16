@@ -1,0 +1,20 @@
+h3{
+    color:red;
+}
+#h3{
+    color:blue;
+}
+.priority{
+    color: green;
+}
+
+/* id>class>element */
+
+/* 
+1.predefined colors(blue, black)
+2.RGB(255,255,255)[0-255]
+3.RGBA(A=alpha(0-1))
+4.HEX(RRGGBB)[#ff0000]
+5.HSL(Hue, saturation, ligtness)[hue=0-360degree,saturation=how greyinsh degree, lightness percetage)
+6.HSLA
+*/
