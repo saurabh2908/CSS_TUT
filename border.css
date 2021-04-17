@@ -1,0 +1,74 @@
+#border {
+  /* By default boder-style is none */
+  border-style: solid;
+  margin-bottom: 20px;
+  /* border-style: dotted; */
+  /* border-style: dashed; */
+  /* border-style: outset; */
+  /* border-style: inset; */
+  /* border-style: groove; */
+  /* border-style: ridge; */
+  /* border-style: top right bottom left; [clockwise cycle] */
+  /* border-style: solid dashed none dotted; */
+
+  /* boder-style:top-bottom left-right */
+  /* border-style: solid dashed; */
+
+  /* border-width: 2px; */
+  /* border-width: 5px 10px 2px 3px; */
+  /* border-width: 5px 10px; */
+
+  /* border-color: red; */
+
+  /* border:border-width border-style border-color*/
+  /* border: 5px solid red; */
+
+  /* border-top-style: solid; */
+
+  /* border-radius: 20px; */
+  /* border-top-left-radius:10px; */
+
+  /* By default height and width is auto */
+
+  /* px always take of browser size */
+  /* percentage takes of its parent */
+  /* max-width:500px */
+  /* max-width: 50%; */
+
+  /* whenever there is box model like height ,width, padding, margin */
+
+  /* padding */
+  /* Border and content ke beech ka jo gap hota hai usse padding khete hai */
+  /* padding-top: 50px;
+    padding-bottom: 20px; */
+  /* padding:25px; */
+  /* padding: 20px 10px 5px 2px */
+}
+
+#border2 {
+  /* margin */
+
+  /* margin by default 0 */
+  /* margin can set in negative but paddinng is not set in negative */
+  /* border-style: solid;
+    margin-top: 50px; */
+
+  /* 50+20=70px  */
+  /* when 2 margin collapse with each other then only bigger value takes palace*/
+  /* margin-top: 30px; */
+
+  /* width: 30%; */
+  /* margin:auto ; */
+
+  /* margin collapse */
+
+  /* width:320px;
+padding:20px;
+border: 5px solid red;
+margin:2px; */
+
+  /* margin-left:30px; */
+}
+
+/* total width:width+left padding+right padding+left margin+ right margin +border(left and right) */
+/* total height:width+top padding+bottom padding+top margin+ bottom margin +border(top and bottom) */
