@@ -1,0 +1,22 @@
+#para{
+    width: 500px;
+    border: 1px solid red;
+    color: blue;
+    /* text-align: justify; to fill the whole para in div */
+    /* direction: rtl; */
+    /* text-decoration: line-through; */
+    /* text-transform: capitalize; */
+    /* line-height: 30px; */
+    /* word-spacing: 10px; */
+      /* white-space: pre; */
+      /* white-space: nowrap; */
+      /* width: 150px;
+      word-wrap: break-word; */
+
+}
+#name{
+    width: 500px;
+    border: 1px solid blue;
+    margin: auto;
+    text-shadow: -30px -10px 2px red;
+}

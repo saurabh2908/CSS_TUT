@@ -1,0 +1,39 @@
+#html{
+    font-size: 24px;
+}
+
+/* Units are of two types
+1. Absolute units(which is not dependent on any other)
+->cm
+->mm
+->inch
+->px
+->pt
+->pc
+
+2. Relative units(which is dependent)
+->percenatge
+->em
+->rem
+->vh
+->vw
+*/
+
+#parent{
+    border: 1px solid green;
+    /* width: 10cm; */
+    /* width: 100mm; */
+    /* width: 100pt; */
+    width: 800px;
+    /* font-size: 10px; */
+    /* font-size: 4rem; */
+    font-size: 10vw;
+
+}
+
+#child{
+border: 1px solid blue;
+width: 50%;
+/* font-size: 2em; */
+/* font-size: 4rem; */
+}
